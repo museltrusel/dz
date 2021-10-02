@@ -1,0 +1,41 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #212a31
+}
+
+
+.fignia{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: #ffa000 8px solid;
+  border-radius: 20px;
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+.hren-kakaiato{display: flex;
+  flex-direction: row;
+  margin-left: 20%;}
+
+button {
+  margin: 20px;
+  background-color: #ffa000;
+  border-radius: 15px;
+  width: 100px;
+  height: 40px;
+  border:ffa000 8px solid;
+  font-family: "Montserrat", sans-serif;
+}
+
+.output{
+  margin: 20px;
+  width: 450px;
+  height: 100px;
+}
